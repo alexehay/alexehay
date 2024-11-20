@@ -6,7 +6,7 @@ Welcome to my README! I've put this together very quickly as I will likely not u
 - 💻 I have worked with Python, Lua, HTML, and a bit of JavaScript and CSS!
 - 🎮 Fun fact: I used to create roblox games from age 10-12!
 - 🐓 My dream job would be a career that involves working with birds, planting native trees/plants, or working as a park ranger!
-- ✨ I originally wanted to major in CS to work in game dev, but decidied I'd much prefer that as a hobby!
+- ✨ I originally wanted to major in CS to work in game dev, but decided I'd much prefer that as a hobby!
 
 <!--
 **alexehay/alexehay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
